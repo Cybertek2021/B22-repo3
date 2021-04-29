@@ -12,3 +12,7 @@ Now our work will continue locally
 to remote repository using push origin button 
 4. observe it has been added in your repository
 under Github.com
+
+How to save after adding some text in sublime 
+On Mac Command + S
+or click on file --> Save
